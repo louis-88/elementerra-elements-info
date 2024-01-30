@@ -34,7 +34,7 @@ const elements = {
     "Magnet": { "tier": "2", "amount": "130,000" },
     "Sand": { "tier": "2", "amount": "130,000" },
     "Sun": { "tier": "2", "amount": "130,000" },
-    "Snow": { "tier": "2", "amount": "10,000" },
+    "Snow": { "tier": "2", "amount": "160,000" },
     "Swamp": { "tier": "2", "amount": "130,000" },
     "Stone": { "tier": "2", "amount": "130,000" },
     "Pond": { "tier": "2", "amount": "70,000" },
