@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Elementerra Eelements Info
+// @name         Elementerra Elements Info
 // @namespace    http://tampermonkey.net/
 // @version      1.0
 // @description  Add tier and prices next to element name on Elementerra website
@@ -15,7 +15,7 @@
 
     // Elements and their corresponding tiers
 const elements = {
-    "Fire": { "tier": "0", "amount": "100,000" },
+    "Fire": { "tier": "0", "amount": "10,000" },
     "Air": { "tier": "0", "amount": "10,000" },
     "Earth": { "tier": "0", "amount": "10,000" },
     "Water": { "tier": "0", "amount": "10,000" },
