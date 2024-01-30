@@ -15,7 +15,7 @@
 
     // Elements and their corresponding tiers
 const elements = {
-    "Fire": { "tier": "0", "amount": "10,000" },
+    "Fire": { "tier": "0", "amount": "100,000" },
     "Air": { "tier": "0", "amount": "10,000" },
     "Earth": { "tier": "0", "amount": "10,000" },
     "Water": { "tier": "0", "amount": "10,000" },
