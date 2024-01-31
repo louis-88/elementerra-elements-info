@@ -64,7 +64,7 @@ const elements = {
     "Dam": { "tier": "3", "amount": "10,000" },
     "Furnace": { "tier": "3", "amount": "10,000" },
     "Sound": { "tier": "3", "amount": "10,000" },
-    "Fire Extinguisher": { "tier": "3", "amount": "10,000" },
+    "Fire Extinguisher": { "tier": "3", "amount": "190,000" },
     "Alcohol": { "tier": "3", "amount": "10,000" },
     "Squid": { "tier": "3", "amount": "10,000" },
     "Plant": { "tier": "3", "amount": "430,000" },
