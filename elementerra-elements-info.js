@@ -62,7 +62,7 @@ const elements = {
     "Solar Panel": { "tier": "3", "amount": "400,000" },
     "Paint": { "tier": "3", "amount": "10,000" },
     "Dam": { "tier": "3", "amount": "10,000" },
-    "Furnace": { "tier": "3", "amount": "10,000" },
+    "Furnace": { "tier": "3", "amount": "280,000" },
     "Sound": { "tier": "3", "amount": "10,000" },
     "Fire Extinguisher": { "tier": "3", "amount": "190,000" },
     "Alcohol": { "tier": "3", "amount": "10,000" },
