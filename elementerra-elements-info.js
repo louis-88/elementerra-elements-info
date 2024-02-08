@@ -78,7 +78,7 @@ const elements = {
     "Bottle": { "tier": "3", "amount": "160,000" },
     "Telescope": { "tier": "3", "amount": "430,000" },
     "Storm": { "tier": "3", "amount": "460,000" },
-    "Apple": { "tier": "4", "amount": "10,000" },
+    "Apple": { "tier": "4", "amount": "940,000" },
     "Music": { "tier": "4", "amount": "10,000" },
     "Electricity": { "tier": "4", "amount": "10,000" },
     "Umbrella": { "tier": "4", "amount": "850,000" },
