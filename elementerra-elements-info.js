@@ -68,7 +68,7 @@ const elements = {
     "Alcohol": { "tier": "3", "amount": "10,000" },
     "Squid": { "tier": "3", "amount": "10,000" },
     "Plant": { "tier": "3", "amount": "430,000" },
-    "Windmill": { "tier": "3", "amount": "10,000" },
+    "Windmill": { "tier": "3", "amount": "430,000" },
     "Volcano": { "tier": "3", "amount": "430,000" },
     "Gasoline": { "tier": "3", "amount": "10,000" },
     "Desert": { "tier": "3", "amount": "430,000" },
