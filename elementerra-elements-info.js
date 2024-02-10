@@ -58,7 +58,7 @@ const elements = {
     "River": { "tier": "2", "amount": "130,000" },
     "Tree": { "tier": "3", "amount": "580,000" },
     "Coral": { "tier": "3", "amount": "190,000" },
-    "Sky": { "tier": "3", "amount": "10,000" },
+    "Sky": { "tier": "3", "amount": "460,000" },
     "Solar Panel": { "tier": "3", "amount": "400,000" },
     "Paint": { "tier": "3", "amount": "10,000" },
     "Dam": { "tier": "3", "amount": "10,000" },
