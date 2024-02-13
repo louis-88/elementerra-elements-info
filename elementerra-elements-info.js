@@ -74,7 +74,7 @@ const elements = {
     "Desert": { "tier": "3", "amount": "430,000" },
     "Plastic": { "tier": "3", "amount": "340,000" },
     "Nail": { "tier": "3", "amount": "340,000" },
-    "Gas": { "tier": "3", "amount": "10,000" },
+    "Gas": { "tier": "3", "amount": "340,000" },
     "Bottle": { "tier": "3", "amount": "160,000" },
     "Telescope": { "tier": "3", "amount": "430,000" },
     "Storm": { "tier": "3", "amount": "460,000" },
