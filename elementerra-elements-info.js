@@ -126,7 +126,7 @@ const elements = {
 
     // Function to add tier and amount to each element
     function addTierToElement() {
-        const divs = document.querySelectorAll('div.sc-58065e1-5.gIHHsj:not(.tier-added)');
+        const divs = document.querySelectorAll('div.sc-58065e1-5 gIHHsj:not(.tier-added)');
         divs.forEach(div => {
             let elementName = div.textContent.trim();
             if (elements[elementName]) {
