@@ -4,7 +4,7 @@
 // @version      1.0
 // @description  Add tier and prices next to element name on Elementerra website
 // @author       louis88
-// @match        https://play.elementerra.io/elements
+// @match        https://play.elementerra.io/glossary
 // @downloadURL  https://raw.githubusercontent.com/louis-88/elementerra-elements-info/main/elementerra-elements-info.js
 // @updateURL    https://raw.githubusercontent.com/louis-88/elementerra-elements-info/main/elementerra-elements-info.js
 // @grant        none
