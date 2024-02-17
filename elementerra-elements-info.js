@@ -70,7 +70,7 @@ const elements = {
     "Plant": { "tier": "3", "amount": "430,000" },
     "Windmill": { "tier": "3", "amount": "430,000" },
     "Volcano": { "tier": "3", "amount": "430,000" },
-    "Gasoline": { "tier": "3", "amount": "10,000" },
+    "Gasoline": { "tier": "3", "amount": "460,000" },
     "Desert": { "tier": "3", "amount": "430,000" },
     "Plastic": { "tier": "3", "amount": "340,000" },
     "Nail": { "tier": "3", "amount": "340,000" },
