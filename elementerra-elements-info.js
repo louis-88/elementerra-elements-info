@@ -63,7 +63,7 @@ const elements = {
     "Paint": { "tier": "3", "amount": "10,000" },
     "Dam": { "tier": "3", "amount": "10,000" },
     "Furnace": { "tier": "3", "amount": "280,000" },
-    "Sound": { "tier": "3", "amount": "550,000" },
+    "Sound": { "tier": "3", "amount": "370,000" },
     "Fire Extinguisher": { "tier": "3", "amount": "190,000" },
     "Alcohol": { "tier": "3", "amount": "10,000" },
     "Squid": { "tier": "3", "amount": "10,000" },
