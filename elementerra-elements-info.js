@@ -84,7 +84,7 @@ const elements = {
     "Umbrella": { "tier": "4", "amount": "850,000" },
     "Ink": { "tier": "4", "amount": "760,000" },
     "Explosion": { "tier": "4", "amount": "10,000" },
-    "Wood": { "tier": "4", "amount": "10,000" },
+    "Wood": { "tier": "4", "amount": "1,870,000" },
     "Blizzard": { "tier": "4", "amount": "940,000" },
     "Paper": { "tier": "4", "amount": "1,060,000" },
     "Dolphin": { "tier": "4", "amount": "910,000" },
@@ -126,7 +126,7 @@ const elements = {
 
     // Function to add tier and amount to each element
     function addTierToElement() {
-        const divs = document.querySelectorAll('div.sc-58065e1-5.gIHHsj:not(.tier-added)');
+        const divs = document.querySelectorAll('div.sc-b52336c4-5.riQdZ:not(.tier-added)');
         divs.forEach(div => {
             let elementName = div.textContent.trim();
             if (elements[elementName]) {
