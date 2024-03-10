@@ -88,7 +88,7 @@ const elements = {
     "Blizzard": { "tier": "4", "amount": "940,000" },
     "Paper": { "tier": "4", "amount": "1,060,000" },
     "Dolphin": { "tier": "4", "amount": "910,000" },
-    "Balloon": { "tier": "4", "amount": "10,000" },
+    "Balloon": { "tier": "4", "amount": "1,240,000" },
     "Wire": { "tier": "4", "amount": "490,000" },
     "Sugar": { "tier": "4", "amount": "10,000" },
     "Island": { "tier": "4", "amount": "10,000" },
