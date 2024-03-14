@@ -98,7 +98,7 @@ const elements = {
     "Antenna": { "tier": "4", "amount": "1,090,000" },
     "Art": { "tier": "5", "amount": "3,700,000" },
     "Tequila": { "tier": "5", "amount": "1,660,000" },
-    "Hail": { "tier": "5", "amount": "10,000" },
+    "Hail": { "tier": "5", "amount": "1,420,000" },
     "Rod": { "tier": "5", "amount": "1,450,000" },
     "Coffee": { "tier": "5", "amount": "10,000" },
     "Hammer": { "tier": "5", "amount": "4,210,000" },
@@ -113,7 +113,7 @@ const elements = {
     "Fish": { "tier": "6", "amount": "1,660,000" },
     "Yacht": { "tier": "6", "amount": "10,000" },
     "Whale": { "tier": "7", "amount": "10,000" },
-    "Ice": { "tier": "4", "amount": "10,000" },
+    "Ice": { "tier": "4", "amount": "790,000" },
     "Cloth": { "tier": "4", "amount": "10,000" }
 };
     // Function to update the amount for an element
