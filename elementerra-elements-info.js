@@ -91,7 +91,7 @@ const elements = {
     "Balloon": { "tier": "4", "amount": "1,240,000" },
     "Wire": { "tier": "4", "amount": "490,000" },
     "Sugar": { "tier": "4", "amount": "490,000" },
-    "Island": { "tier": "4", "amount": "10,000" },
+    "Island": { "tier": "4", "amount": "970,000" },
     "Cactus": { "tier": "4", "amount": "1,000,000" },
     "Meteor": { "tier": "4", "amount": "1,180,000" },
     "Bean": { "tier": "4", "amount": "760,000" },
