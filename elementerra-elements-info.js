@@ -111,7 +111,7 @@ const elements = {
     "Ice Storm": { "tier": "6", "amount": "10,000" },
     "Party": { "tier": "6", "amount": "7,240,000" },
     "Fish": { "tier": "6", "amount": "1,660,000" },
-    "Yacht": { "tier": "6", "amount": "10,000" },
+    "Yacht": { "tier": "6", "amount": "8,020,000" },
     "Whale": { "tier": "7", "amount": "10,000" },
     "Ice": { "tier": "4", "amount": "790,000" },
     "Cloth": { "tier": "4", "amount": "1,060,000" }
