@@ -100,7 +100,7 @@ const elements = {
     "Tequila": { "tier": "5", "amount": "1,660,000" },
     "Hail": { "tier": "5", "amount": "1,420,000" },
     "Rod": { "tier": "5", "amount": "1,450,000" },
-    "Coffee": { "tier": "5", "amount": "10,000" },
+    "Coffee": { "tier": "5", "amount": "1,780,000" },
     "Hammer": { "tier": "5", "amount": "4,210,000" },
     "Fireworks": { "tier": "5", "amount": "2,170,000" },
     "Blueprint": { "tier": "5", "amount": "3,220,000" },
