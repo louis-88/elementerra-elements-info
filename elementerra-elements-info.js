@@ -108,7 +108,7 @@ const elements = {
     "Lightning": { "tier": "5", "amount": "3,550,000" },
     "T Shirt": { "tier": "6", "amount": "5,860,000" },
     "Coin": { "tier": "6", "amount": "4,660,000" },
-    "Ice Storm": { "tier": "6", "amount": "10,000" },
+    "Ice Storm": { "tier": "6", "amount": "3,160,000" },
     "Party": { "tier": "6", "amount": "7,240,000" },
     "Fish": { "tier": "6", "amount": "1,660,000" },
     "Yacht": { "tier": "6", "amount": "8,020,000" },
@@ -124,9 +124,9 @@ const elements = {
         }
     }
 
-    // Function to add tier and amount to each element
+    // Function to add tier and amount to each element sc-874ed145-5 gKdFWX
     function addTierToElement() {
-        const divs = document.querySelectorAll('div.sc-b52336c4-5.riQdZ:not(.tier-added)');
+        const divs = document.querySelectorAll('div.sc-874ed145-5.gKdFWX:not(.tier-added)');
         divs.forEach(div => {
             let elementName = div.textContent.trim();
             if (elements[elementName]) {
